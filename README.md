@@ -1,2 +1,3 @@
 # no-codeowners-public
-CODEOWNERS-absent isolation target.
+
+CODEOWNERS-missing test target.
